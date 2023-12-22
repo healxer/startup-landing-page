@@ -9,3 +9,7 @@ html {
   background-repeat: no-repeat;
 }
 
+.text-uppercase {
+  font-size: 3rem;
+  color: #e2dbdb;
+}
