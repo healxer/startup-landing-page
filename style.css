@@ -31,7 +31,6 @@ html {
 /* .btn-primary:hover {
   background-color: #ee4b08;
   border-color: #ee4b08;  
-  
 } */
 
 .btn-xl {
@@ -42,4 +41,10 @@ hr {
   border-color: #F05F44;
   border-width: 3px;
   max-width: 65px;
+  opacity: 1;
+  margin: 20px auto;
+}
+
+.buffer {
+  height: 10rem;
 }
